@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Caterpie",
+        "id": 1,
+        "fact": "Caterpie's primary defense is its ability to camouflage with its surroundings.",
+        "stats": {
+            "attack": 30,
+            "speed": 45,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/caterpie.jpg"
+    },
+    {
+        "name": "Metapod",
+        "id": 2,
+        "fact": "Metapod is in a state of metamorphosis, preparing to evolve into a Butterfree.",
+        "stats": {
+            "attack": 20,
+            "speed": 30,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/metapod.jpg"
+    },
+    {
+        "name": "Butterfree",
+        "id": 3,
+        "fact": "Butterfree uses its wings to scatter toxic spores and confuse its enemies.",
+        "stats": {
+            "attack": 45,
+            "speed": 70,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/butterfree.jpg"
+    },
+    {
+        "name": "Weedle",
+        "id": 4,
+        "fact": "Weedle's sting can cause intense pain and is used primarily for defense.",
+        "stats": {
+            "attack": 35,
+            "speed": 50,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/weedle.jpg"
+    },
+    {
+        "name": "Kakuna",
+        "id": 5,
+        "fact": "Kakuna is in a cocoon state, preparing to evolve into a Beedrill.",
+        "stats": {
+            "attack": 25,
+            "speed": 35,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kakuna.jpg"
+    },
+    {
+        "name": "Beedrill",
+        "id": 6,
+        "fact": "Beedrill is known for its ability to deliver a powerful and painful sting.",
+        "stats": {
+            "attack": 90,
+            "speed": 75,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/beedrill.jpg"
+    },
+    {
+        "name": "Scyther",
+        "id": 7,
+        "fact": "Scyther has sharp scythe-like claws that it uses to slice through its enemies.",
+        "stats": {
+            "attack": 110,
+            "speed": 105,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/scyther.jpg"
+    },
+    {
+        "name": "Pinsir",
+        "id": 8,
+        "fact": "Pinsir uses its powerful pincers to crush anything in its grasp.",
+        "stats": {
+            "attack": 125,
+            "speed": 55,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/pinsir.jpg"
+    },
+    {
+        "name": "Heracross",
+        "id": 9,
+        "fact": "Heracross has incredibly strong horns that it uses for battling and climbing.",
+        "stats": {
+            "attack": 125,
+            "speed": 75,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/heracross.jpg"
+    },
+    {
+        "name": "Wormadam",
+        "id": 10,
+        "fact": "Wormadam changes its form depending on the environment it evolved in, adapting its abilities.",
+        "stats": {
+            "attack": 59,
+            "speed": 36,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/wormadam.jpg"
+    },
+    {
+        "name": "Mothim",
+        "id": 11,
+        "fact": "Mothim uses its large wings to fly and spread pollen to attract mates.",
+        "stats": {
+            "attack": 60,
+            "speed": 66,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/mothim.jpg"
+    },
+    {
+        "name": "Frosmoth",
+        "id": 12,
+        "fact": "Frosmoth's wings are covered in scales that help it create powerful snowstorms.",
+        "stats": {
+            "attack": 65,
+            "speed": 65,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/frosmoth.jpg"
+    }
+]

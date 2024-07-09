@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Pikachu",
+        "id": 1,
+        "fact": "Pikachu stores electricity in its cheeks and can release it through its electric attacks.",
+        "stats": {
+            "attack": 55,
+            "speed": 90,
+            "hp": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/pikachu.jpg"
+    },
+    {
+        "name": "Raichu",
+        "id": 2,
+        "fact": "Raichu can generate powerful electric shocks and is known for its agility and speed.",
+        "stats": {
+            "attack": 90,
+            "speed": 110,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/raichu.jpg"
+    },
+    {
+        "name": "Magnemite",
+        "id": 3,
+        "fact": "Magnemite is a Steel/Electric-type Pokémon that uses electromagnetic fields to levitate.",
+        "stats": {
+            "attack": 35,
+            "speed": 45,
+            "hp": 25
+        },
+        "image_url": "https://img.pokemondb.net/artwork/magnemite.jpg"
+    },
+    {
+        "name": "Magneton",
+        "id": 4,
+        "fact": "Magneton is formed by three Magnemite sticking together and can create powerful magnetic fields.",
+        "stats": {
+            "attack": 60,
+            "speed": 70,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/magneton.jpg"
+    },
+    {
+        "name": "Electrode",
+        "id": 5,
+        "fact": "Electrode is known for its ability to self-destruct, releasing a powerful electric blast.",
+        "stats": {
+            "attack": 50,
+            "speed": 140,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/electrode.jpg"
+    },
+    {
+        "name": "Voltorb",
+        "id": 6,
+        "fact": "Voltorb is often mistaken for a Poké Ball due to its similar shape and coloration.",
+        "stats": {
+            "attack": 30,
+            "speed": 100,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/voltorb.jpg"
+    },
+    {
+        "name": "Electabuzz",
+        "id": 7,
+        "fact": "Electabuzz generates electricity through friction, which it can release during battle.",
+        "stats": {
+            "attack": 65,
+            "speed": 105,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/electabuzz.jpg"
+    },
+    {
+        "name": "Electivire",
+        "id": 8,
+        "fact": "Electivire can generate a massive amount of electricity, which it uses to enhance its physical attacks.",
+        "stats": {
+            "attack": 123,
+            "speed": 95,
+            "hp": 75
+        },
+        "image_url": "https://img.pokemondb.net/artwork/electivire.jpg"
+    },
+    {
+        "name": "Jolteon",
+        "id": 9,
+        "fact": "Jolteon’s fur can generate electric currents that it releases through its sharp quills.",
+        "stats": {
+            "attack": 65,
+            "speed": 130,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/jolteon.jpg"
+    },
+    {
+        "name": "Pachirisu",
+        "id": 10,
+        "fact": "Pachirisu stores electricity in its cheek pouches, which it can release in a powerful electric burst.",
+        "stats": {
+            "attack": 45,
+            "speed": 95,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/pachirisu.jpg"
+    },
+    {
+        "name": "Plusle",
+        "id": 11,
+        "fact": "Plusle is known for its ability to generate electricity when it works together with Minun.",
+        "stats": {
+            "attack": 60,
+            "speed": 95,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/plusle.jpg"
+    },
+    {
+        "name": "Minun",
+        "id": 12,
+        "fact": "Minun is a companion to Plusle and works together with it to generate electricity.",
+        "stats": {
+            "attack": 40,
+            "speed": 95,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/minun.jpg"
+    },
+    {
+        "name": "Zeraora",
+        "id": 13,
+        "fact": "Zeraora is known for its speed and agility, able to discharge electric shocks from its claws.",
+        "stats": {
+            "attack": 115,
+            "speed": 143,
+            "hp": 88
+        },
+        "image_url": "https://img.pokemondb.net/artwork/zeraora.jpg"
+    }
+]

@@ -1,0 +1,112 @@
+[
+    {
+        "name": "Machop",
+        "id": 1,
+        "fact": "Machop is known for its strength and often practices lifting heavy objects.",
+        "stats": {
+            "attack": 80,
+            "speed": 35,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/machop.jpg"
+    },
+    {
+        "name": "Machoke",
+        "id": 2,
+        "fact": "Machoke is incredibly strong and often trains by lifting large boulders.",
+        "stats": {
+            "attack": 100,
+            "speed": 45,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/machoke.jpg"
+    },
+    {
+        "name": "Machamp",
+        "id": 3,
+        "fact": "Machamp has four muscular arms that it uses to deliver powerful punches.",
+        "stats": {
+            "attack": 130,
+            "speed": 55,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/machamp.jpg"
+    },
+    {
+        "name": "Hitmonlee",
+        "id": 4,
+        "fact": "Hitmonlee's kicking power is so strong that it can kick down trees.",
+        "stats": {
+            "attack": 120,
+            "speed": 87,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/hitmonlee.jpg"
+    },
+    {
+        "name": "Hitmonchan",
+        "id": 5,
+        "fact": "Hitmonchan is skilled in various punching techniques and can strike with incredible speed.",
+        "stats": {
+            "attack": 105,
+            "speed": 76,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/hitmonchan.jpg"
+    },
+    {
+        "name": "Hitmontop",
+        "id": 6,
+        "fact": "Hitmontop's unique ability to spin on its head helps it in both offense and defense.",
+        "stats": {
+            "attack": 95,
+            "speed": 70,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/hitmontop.jpg"
+    },
+    {
+        "name": "Combusken",
+        "id": 7,
+        "fact": "Combusken evolves from Torchic and can use powerful fire and fighting moves.",
+        "stats": {
+            "attack": 60,
+            "speed": 55,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/combusken.jpg"
+    },
+    {
+        "name": "Blaziken",
+        "id": 8,
+        "fact": "Blaziken's fiery legs can deliver kicks with immense power, making it a fierce fighter.",
+        "stats": {
+            "attack": 120,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/blaziken.jpg"
+    },
+    {
+        "name": "Lucario",
+        "id": 9,
+        "fact": "Lucario can sense the auras of other living beings, which it uses to enhance its fighting techniques.",
+        "stats": {
+            "attack": 110,
+            "speed": 90,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/lucario.jpg"
+    },
+    {
+        "name": "Gallade",
+        "id": 10,
+        "fact": "Gallade uses its psychic abilities to predict its opponent's moves and strike with precision.",
+        "stats": {
+            "attack": 125,
+            "speed": 80,
+            "hp": 68
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gallade.jpg"
+    }
+]

@@ -1,0 +1,200 @@
+[
+    {
+        "name": "Bulbasaur",
+        "id": 1,
+        "fact": "Bulbasaur's plant grows steadily larger as it gains experience.",
+        "stats": {
+            "attack": 49,
+            "speed": 45,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+    },
+    {
+        "name": "Ivysaur",
+        "id": 2,
+        "fact": "Ivysaur is a transition Pokémon that evolves from Bulbasaur and prepares for its next evolution.",
+        "stats": {
+            "attack": 62,
+            "speed": 60,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+    },
+    {
+        "name": "Venusaur",
+        "id": 3,
+        "fact": "Venusaur's flower is said to bloom when it gets plenty of sunlight.",
+        "stats": {
+            "attack": 82,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/venusaur.jpg"
+    },
+    {
+        "name": "Chikorita",
+        "id": 4,
+        "fact": "Chikorita uses the leaf on its head to sense the warmth of the sun.",
+        "stats": {
+            "attack": 49,
+            "speed": 45,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/chikorita.jpg"
+    },
+    {
+        "name": "Bayleef",
+        "id": 5,
+        "fact": "Bayleef’s aroma has a calming effect and can soothe its Trainer's stress.",
+        "stats": {
+            "attack": 63,
+            "speed": 60,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/bayleef.jpg"
+    },
+    {
+        "name": "Meganium",
+        "id": 6,
+        "fact": "Meganium's aroma spreads over a wide area and makes the environment more peaceful.",
+        "stats": {
+            "attack": 83,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/meganium.jpg"
+    },
+    {
+        "name": "Treecko",
+        "id": 7,
+        "fact": "Treecko's grip is so strong it can climb trees and cling to walls effortlessly.",
+        "stats": {
+            "attack": 45,
+            "speed": 70,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/treecko.jpg"
+    },
+    {
+        "name": "Grovyle",
+        "id": 8,
+        "fact": "Grovyle's speed and agility make it an expert at navigating through dense forests.",
+        "stats": {
+            "attack": 60,
+            "speed": 85,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/grovyle.jpg"
+    },
+    {
+        "name": "Sceptile",
+        "id": 9,
+        "fact": "Sceptile can blend into the trees and strike with incredible speed.",
+        "stats": {
+            "attack": 85,
+            "speed": 120,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sceptile.jpg"
+    },
+    {
+        "name": "Bulbasaur",
+        "id": 10,
+        "fact": "Bulbasaur's plant grows steadily larger as it gains experience.",
+        "stats": {
+            "attack": 49,
+            "speed": 45,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+    },
+    {
+        "name": "Ivysaur",
+        "id": 11,
+        "fact": "Ivysaur is a transition Pokémon that evolves from Bulbasaur and prepares for its next evolution.",
+        "stats": {
+            "attack": 62,
+            "speed": 60,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+    },
+    {
+        "name": "Venusaur",
+        "id": 12,
+        "fact": "Venusaur's flower is said to bloom when it gets plenty of sunlight.",
+        "stats": {
+            "attack": 82,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/venusaur.jpg"
+    },
+    {
+        "name": "Chikorita",
+        "id": 13,
+        "fact": "Chikorita uses the leaf on its head to sense the warmth of the sun.",
+        "stats": {
+            "attack": 49,
+            "speed": 45,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/chikorita.jpg"
+    },
+    {
+        "name": "Bayleef",
+        "id": 14,
+        "fact": "Bayleef’s aroma has a calming effect and can soothe its Trainer's stress.",
+        "stats": {
+            "attack": 63,
+            "speed": 60,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/bayleef.jpg"
+    },
+    {
+        "name": "Meganium",
+        "id": 15,
+        "fact": "Meganium's aroma spreads over a wide area and makes the environment more peaceful.",
+        "stats": {
+            "attack": 83,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/meganium.jpg"
+    },
+    {
+        "name": "Treecko",
+        "id": 16,
+        "fact": "Treecko's grip is so strong it can climb trees and cling to walls effortlessly.",
+        "stats": {
+            "attack": 45,
+            "speed": 70,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/treecko.jpg"
+    },
+    {
+        "name": "Grovyle",
+        "id": 17,
+        "fact": "Grovyle's speed and agility make it an expert at navigating through dense forests.",
+        "stats": {
+            "attack": 60,
+            "speed": 85,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/grovyle.jpg"
+    },
+    {
+        "name": "Sceptile",
+        "id": 18,
+        "fact": "Sceptile can blend into the trees and strike with incredible speed.",
+        "stats": {
+            "attack": 85,
+            "speed": 120,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sceptile.jpg"
+    }
+]

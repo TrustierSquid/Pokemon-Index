@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Steelix",
+        "id": 1,
+        "fact": "Steelix's body is made of iron, making it incredibly tough and able to withstand powerful attacks.",
+        "stats": {
+            "attack": 85,
+            "speed": 30,
+            "hp": 75
+        },
+        "image_url": "https://img.pokemondb.net/artwork/steelix.jpg"
+    },
+    {
+        "name": "Scizor",
+        "id": 2,
+        "fact": "Scizor's body is covered in a tough exoskeleton, which makes it highly resistant to damage and allows it to move swiftly.",
+        "stats": {
+            "attack": 130,
+            "speed": 65,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/scizor.jpg"
+    },
+    {
+        "name": "Skarmory",
+        "id": 3,
+        "fact": "Skarmory's steel feathers make it highly resistant to damage, and it uses its wings to fly at high speeds.",
+        "stats": {
+            "attack": 80,
+            "speed": 70,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/skarmory.jpg"
+    },
+    {
+        "name": "Mawile",
+        "id": 4,
+        "fact": "Mawile's jaws are its most striking feature, and it uses them to trap and crush its opponents.",
+        "stats": {
+            "attack": 65,
+            "speed": 50,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/mawile.jpg"
+    },
+    {
+        "name": "Magearna",
+        "id": 5,
+        "fact": "Magearna's artificial nature allows it to generate and manipulate energy, which it uses to protect itself and others.",
+        "stats": {
+            "attack": 75,
+            "speed": 65,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/magearna.jpg"
+    },
+    {
+        "name": "Celesteela",
+        "id": 6,
+        "fact": "Celesteela is known for its massive size and its ability to create powerful shockwaves with its launchers.",
+        "stats": {
+            "attack": 101,
+            "speed": 76,
+            "hp": 97
+        },
+        "image_url": "https://img.pokemondb.net/artwork/celesteela.jpg"
+    },
+    {
+        "name": "Jirachi",
+        "id": 7,
+        "fact": "Jirachi is known as the 'Wish Pokémon' and is said to grant wishes to those who find it while it is awake.",
+        "stats": {
+            "attack": 100,
+            "speed": 100,
+            "hp": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/jirachi.jpg"
+    }
+]

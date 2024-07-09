@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Pidgey",
+        "id": 1,
+        "fact": "Pidgey can be found in forests and grasslands, and it has an excellent sense of direction.",
+        "stats": {
+            "attack": 45,
+            "speed": 56,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/pidgey.jpg"
+    },
+    {
+        "name": "Pidgeotto",
+        "id": 2,
+        "fact": "Pidgeotto uses its strong wings to create powerful gusts of wind that can knock over its opponents.",
+        "stats": {
+            "attack": 60,
+            "speed": 71,
+            "hp": 63
+        },
+        "image_url": "https://img.pokemondb.net/artwork/pidgeotto.jpg"
+    },
+    {
+        "name": "Pidgeot",
+        "id": 3,
+        "fact": "Pidgeot's speed and sharp vision make it a formidable aerial predator, capable of slicing through the air at high speeds.",
+        "stats": {
+            "attack": 80,
+            "speed": 101,
+            "hp": 83
+        },
+        "image_url": "https://img.pokemondb.net/artwork/pidgeot.jpg"
+    },
+    {
+        "name": "Farfetch'd",
+        "id": 4,
+        "fact": "Farfetch'd carries a leek as a weapon and is known for its skill in using it during battles.",
+        "stats": {
+            "attack": 65,
+            "speed": 60,
+            "hp": 52
+        },
+        "image_url": "https://img.pokemondb.net/artwork/farfetchd.jpg"
+    },
+    {
+        "name": "Doduo",
+        "id": 5,
+        "fact": "Doduo has two heads, each with its own brain, allowing it to be highly aware of its surroundings.",
+        "stats": {
+            "attack": 85,
+            "speed": 75,
+            "hp": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/doduo.jpg"
+    },
+    {
+        "name": "Dodrio",
+        "id": 6,
+        "fact": "Dodrio's three heads can act independently, allowing it to run at incredible speeds and attack from multiple directions.",
+        "stats": {
+            "attack": 110,
+            "speed": 110,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dodrio.jpg"
+    },
+    {
+        "name": "Hoothoot",
+        "id": 7,
+        "fact": "Hoothoot's ability to rotate its head 180 degrees helps it keep a keen lookout for danger.",
+        "stats": {
+            "attack": 30,
+            "speed": 50,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/hoothoot.jpg"
+    },
+    {
+        "name": "Noctowl",
+        "id": 8,
+        "fact": "Noctowl's wide eyes and ability to see in the dark make it an excellent night-time hunter.",
+        "stats": {
+            "attack": 50,
+            "speed": 70,
+            "hp": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/noctowl.jpg"
+    },
+    {
+        "name": "Swablu",
+        "id": 9,
+        "fact": "Swablu's fluffy body resembles a cloud, and it can use its feathers to create a soft, soothing effect.",
+        "stats": {
+            "attack": 40,
+            "speed": 50,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/swablu.jpg"
+    },
+    {
+        "name": "Altaria",
+        "id": 10,
+        "fact": "Altaria's wings can generate a beautiful, soft mist that it uses to protect itself and soothe others.",
+        "stats": {
+            "attack": 70,
+            "speed": 60,
+            "hp": 75
+        },
+        "image_url": "https://img.pokemondb.net/artwork/altaria.jpg"
+    },
+    {
+        "name": "Spearow",
+        "id": 11,
+        "fact": "Spearow is known for its aggressive behavior and sharp beak, which it uses to peck at its enemies.",
+        "stats": {
+            "attack": 60,
+            "speed": 70,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/spearow.jpg"
+    },
+    {
+        "name": "Fearow",
+        "id": 12,
+        "fact": "Fearow can create powerful shockwaves by flapping its wings, making it a fearsome predator in the skies.",
+        "stats": {
+            "attack": 90,
+            "speed": 100,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/fearow.jpg"
+    },
+    {
+        "name": "Gliscor",
+        "id": 13,
+        "fact": "Gliscor uses its large wings and claws to glide silently and deliver surprise attacks.",
+        "stats": {
+            "attack": 95,
+            "speed": 95,
+            "hp": 75
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gliscor.jpg"
+    },
+    {
+        "name": "Tornadus",
+        "id": 14,
+        "fact": "Tornadus's ability to control storms makes it a powerful and elusive Pokémon in the skies.",
+        "stats": {
+            "attack": 125,
+            "speed": 111,
+            "hp": 79
+        },
+        "image_url": "https://img.pokemondb.net/artwork/tornadus.jpg"
+    },
+    {
+        "name": "Thundurus",
+        "id": 15,
+        "fact": "Thundurus can generate and manipulate lightning, creating powerful electric attacks.",
+        "stats": {
+            "attack": 115,
+            "speed": 101,
+            "hp": 79
+        },
+        "image_url": "https://img.pokemondb.net/artwork/thundurus.jpg"
+    }
+]

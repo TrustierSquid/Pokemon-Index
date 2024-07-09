@@ -1,0 +1,79 @@
+[
+    {
+        "name": "Snover",
+        "id": 1,
+        "fact": "Snover brings about snow with its presence, causing frost and chill in its surroundings.",
+        "stats": {
+            "attack": 60,
+            "speed": 60,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/snover.jpg"
+    },
+    {
+        "name": "Abomasnow",
+        "id": 2,
+        "fact": "Abomasnow's presence causes snowstorms, and it is known for its ability to create hail.",
+        "stats": {
+            "attack": 92,
+            "speed": 60,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/abomasnow.jpg"
+    },
+    {
+        "name": "Glaceon",
+        "id": 3,
+        "fact": "Glaceon can freeze the air around it and create an icy aura that it uses in battle.",
+        "stats": {
+            "attack": 60,
+            "speed": 65,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/glaceon.jpg"
+    },
+    {
+        "name": "Froslass",
+        "id": 4,
+        "fact": "Froslass is known for its icy breath and haunting presence in snowy mountains.",
+        "stats": {
+            "attack": 80,
+            "speed": 110,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/froslass.jpg"
+    },
+    {
+        "name": "Cryogonal",
+        "id": 5,
+        "fact": "Cryogonal's body is composed entirely of ice crystals that can refract light.",
+        "stats": {
+            "attack": 50,
+            "speed": 105,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/cryogonal.jpg"
+    },
+    {
+        "name": "Lapras",
+        "id": 6,
+        "fact": "Lapras is known for its gentle nature and its ability to help people and Pokémon cross bodies of water.",
+        "stats": {
+            "attack": 85,
+            "speed": 60,
+            "hp": 130
+        },
+        "image_url": "https://img.pokemondb.net/artwork/lapras.jpg"
+    },
+    {
+        "name": "Avalugg",
+        "id": 7,
+        "fact": "Avalugg's body is made of large ice plates that protect it from attacks.",
+        "stats": {
+            "attack": 95,
+            "speed": 28,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/avalugg.jpg"
+    }
+]

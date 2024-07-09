@@ -1,0 +1,387 @@
+[
+    {
+        "name": "Charmander",
+        "id": 4,
+        "fact": "Charmander's tail flame indicates its life force.",
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "speed": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/charmander.jpg"
+    },
+    {
+        "name": "Charmeleon",
+        "id": 5,
+        "fact": "When Charmeleon swings its burning tail, it raises the temperature to unbearably high levels.",
+        "stats": {
+            "hp": 58,
+            "attack": 64,
+            "speed": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/charmeleon.jpg"
+    },
+    {
+        "name": "Charizard",
+        "id": 6,
+        "fact": "Charizard flies around the sky in search of powerful opponents.",
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "speed": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/charizard.jpg"
+    },
+    {
+        "name": "Vulpix",
+        "id": 37,
+        "fact": "At the time of birth, Vulpix has one white tail. The tail separates into six if this Pokémon receives plenty of love from its Trainer.",
+        "stats": {
+            "hp": 38,
+            "attack": 41,
+            "speed": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/vulpix.jpg"
+    },
+    {
+        "name": "Ninetales",
+        "id": 38,
+        "fact": "Ninetales casts a sinister light from its bright-red eyes to gain total control over its foe's mind.",
+        "stats": {
+            "hp": 73,
+            "attack": 76,
+            "speed": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/ninetales.jpg"
+    },
+    {
+        "name": "Growlithe",
+        "id": 58,
+        "fact": "Growlithe has a superb sense of smell. Once it smells anything, this Pokémon won't forget the scent.",
+        "stats": {
+            "hp": 55,
+            "attack": 70,
+            "speed": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/growlithe.jpg"
+    },
+    {
+        "name": "Arcanine",
+        "id": 59,
+        "fact": "Arcanine is known for its high speed. It is said to be capable of running over 6,200 miles in a single day and night.",
+        "stats": {
+            "hp": 90,
+            "attack": 110,
+            "speed": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/arcanine.jpg"
+    },
+    {
+        "name": "Ponyta",
+        "id": 77,
+        "fact": "Ponyta is very weak at birth. It can barely stand up. This Pokémon becomes stronger by stumbling and falling to keep up with its parent.",
+        "stats": {
+            "hp": 50,
+            "attack": 85,
+            "speed": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/ponyta.jpg"
+    },
+    {
+        "name": "Rapidash",
+        "id": 78,
+        "fact": "Rapidash usually can be seen casually cantering in the fields and plains. However, when this Pokémon turns serious, its fiery manes flare and blaze as it gallops its way up to 150 mph.",
+        "stats": {
+            "hp": 65,
+            "attack": 100,
+            "speed": 105
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/rapidash.jpg"
+    },
+    {
+        "name": "Magmar",
+        "id": 126,
+        "fact": "In battle, Magmar blows out intensely hot flames from all over its body to intimidate its opponent. This Pokémon's fiery bursts create heat waves that ignite grass and trees in its surroundings.",
+        "stats": {
+            "hp": 65,
+            "attack": 95,
+            "speed": 93
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/magmar.jpg"
+    },
+    {
+        "name": "Flareon",
+        "id": 136,
+        "fact": "Flareon's fluffy fur has a functional purpose—it releases heat into the air so that its body does not get excessively hot.",
+        "stats": {
+            "hp": 65,
+            "attack": 130,
+            "speed": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/flareon.jpg"
+    },
+    {
+        "name": "Moltres",
+        "id": 146,
+        "fact": "Moltres is a legendary bird Pokémon that has the ability to control fire. If this Pokémon is injured, it is said to dip its body in the molten magma of a volcano to burn and heal itself.",
+        "stats": {
+            "hp": 90,
+            "attack": 100,
+            "speed": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/moltres.jpg"
+    },
+    {
+        "name": "Cyndaquil",
+        "id": 155,
+        "fact": "Cyndaquil protects itself by flaring up the flames on its back. The flames are vigorous if the Pokémon is angry. However, if it is tired, the flames splutter fitfully with incomplete combustion.",
+        "stats": {
+            "hp": 39,
+            "attack": 52,
+            "speed": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/cyndaquil.jpg"
+    },
+    {
+        "name": "Quilava",
+        "id": 156,
+        "fact": "Quilava keeps its foes at bay with the intensity of its flames and gusts of superheated air. This Pokémon applies its outstanding nimbleness to dodge attacks even while scorching the foe with flames.",
+        "stats": {
+            "hp": 58,
+            "attack": 64,
+            "speed": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/quilava.jpg"
+    },
+    {
+        "name": "Typhlosion",
+        "id": 157,
+        "fact": "Typhlosion obscures itself behind a shimmering heat haze that it creates using its intensely hot flames. This Pokémon creates blazing explosive blasts that burn everything to cinders.",
+        "stats": {
+            "hp": 78,
+            "attack": 84,
+            "speed": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/typhlosion.jpg"
+    },
+    {
+        "name": "Slugma",
+        "id": 218,
+        "fact": "It never sleeps. It has to keep moving because if it stopped, its magma body would cool and harden.",
+        "stats": {
+            "hp": 40,
+            "attack": 40,
+            "speed": 20
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/slugma.jpg"
+    },
+    {
+        "name": "Magcargo",
+        "id": 219,
+        "fact": "Its body is as hot as lava and is always billowing. Flames will occasionally burst from its shell.",
+        "stats": {
+            "hp": 60,
+            "attack": 50,
+            "speed": 30
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/magcargo.jpg"
+    },
+    {
+        "name": "Torchic",
+        "id": 255,
+        "fact": "Torchic is known to eat branches as snacks.",
+        "stats": {
+            "hp": 45,
+            "attack": 60,
+            "speed": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/torchic.jpg"
+    },
+    {
+        "name": "Combusken",
+        "id": 256,
+        "fact": "Combusken toughens up its legs and thighs by running through fields and mountains. This Pokémon's legs possess both speed and power, enabling it to dole out 10 kicks in one second.",
+        "stats": {
+            "hp": 60,
+            "attack": 85,
+            "speed": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/combusken.jpg"
+    },
+    {
+        "name": "Blaziken",
+        "id": 257,
+        "fact": "Blaziken has incredibly strong legs—it can easily clear a 30-story building in one leap.",
+        "stats": {
+            "hp": 80,
+            "attack": 120,
+            "speed": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/blaziken.jpg"
+    },
+    {
+        "name": "Numel",
+        "id": 322,
+        "fact": "Numel is extremely dull-witted—it doesn't notice being hit. However, it can't stand hunger for even a second.",
+        "stats": {
+            "hp": 60,
+            "attack": 60,
+            "speed": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/numel.jpg"
+    },
+    {
+        "name": "Camerupt",
+        "id": 323,
+        "fact": "Camerupt has volcanoes inside its body. Magma of 18,000 degrees F courses through its body. Occasionally, the humps on this Pokémon's back erupt, spewing the superheated magma.",
+        "stats": {
+            "hp": 70,
+            "attack": 100,
+            "speed": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/camerupt.jpg"
+    },
+    {
+        "name": "Torkoal",
+        "id": 324,
+        "fact": "Torkoal digs through mountains in search of coal. If it finds some, it fills hollow spaces on its shell with the coal and burns it. If it is attacked, this Pokémon spouts thick black smoke to beat a retreat.",
+        "stats": {
+            "hp": 70,
+            "attack": 85,
+            "speed": 20
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/torkoal.jpg"
+    },
+    {
+        "name": "Spoink",
+        "id": 325,
+        "fact": "Spoink bounces around on its tail. The shock of its bouncing makes its heart pump. As a result, this Pokémon cannot afford to stop bouncing—if it stops, its heart will stop.",
+        "stats": {
+            "hp": 60,
+            "attack": 25,
+            "speed": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/spoink.jpg"
+    },
+    {
+        "name": "Grumpig",
+        "id": 326,
+        "fact": "Grumpig uses black pearls to amplify its psychic powers and control its opponents.",
+        "stats": {
+            "hp": 80,
+            "attack": 45,
+            "speed": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/grumpig.jpg"
+    },
+    {
+        "name": "Magmortar",
+        "id": 467,
+        "fact": "Magmortar blasts out 3,600 degrees F fireballs. Its body can withstand extremely high temperatures without melting.",
+        "stats": {
+            "hp": 75,
+            "attack": 95,
+            "speed": 83
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/magmortar.jpg"
+    },
+    {
+        "name": "Litwick",
+        "id": 607,
+        "fact": "Litwick shines a light that absorbs the life energy of people and Pokémon, which becomes the fuel that it burns.",
+        "stats": {
+            "hp": 50,
+            "attack": 30,
+            "speed": 20
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/litwick.jpg"
+    },
+    {
+        "name": "Lampent",
+        "id": 608,
+        "fact": "Lampent arrives near the moment of death and steals spirit from the body.",
+        "stats": {
+            "hp": 60,
+            "attack": 40,
+            "speed": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/lampent.jpg"
+    },
+    {
+        "name": "Chandelure",
+        "id": 609,
+        "fact": "The spirits burned up in its ominous flame lose their way and wander this world forever.",
+        "stats": {
+            "hp": 60,
+            "attack": 55,
+            "speed": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/chandelure.jpg"
+    },
+    {
+        "name": "Fennekin",
+        "id": 653,
+        "fact": "Fennekin is known to eat branches as snacks.",
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "speed": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/fennekin.jpg"
+    },
+    {
+        "name": "Braixen",
+        "id": 654,
+        "fact": "Braixen keeps a stick in its tail, which it uses to generate fire.",
+        "stats": {
+            "hp": 59,
+            "attack": 59,
+            "speed": 73
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/braixen.jpg"
+    },
+    {
+        "name": "Delphox",
+        "id": 655,
+        "fact": "Delphox's eyes are capable of seeing into the future.",
+        "stats": {
+            "hp": 75,
+            "attack": 69,
+            "speed": 104
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/delphox.jpg"
+    },
+    {
+        "name": "Litten",
+        "id": 725,
+        "fact": "Litten’s fur is rich in oils and immensely flammable.",
+        "stats": {
+            "hp": 45,
+            "attack": 65,
+            "speed": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/litten.jpg"
+    },
+    {
+        "name": "Torracat",
+        "id": 726,
+        "fact": "When facing strong opponents, Torracat’s fighting spirit gets stronger.",
+        "stats": {
+            "hp": 65,
+            "attack": 85,
+            "speed": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/torracat.jpg"
+    },
+    {
+        "name": "Incineroar",
+        "id": 727,
+        "fact": "Incineroar is a heel wrestler that shoots fire from its navel.",
+        "stats": {
+            "hp": 95,
+            "attack": 115,
+            "speed": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/large/incineroar.jpg"
+    }
+]

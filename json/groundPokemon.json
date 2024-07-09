@@ -1,0 +1,178 @@
+[
+    {
+        "name": "Sandshrew",
+        "id": 1,
+        "fact": "Sandshrew's body is covered in hard, protective scales that can withstand harsh environments.",
+        "stats": {
+            "attack": 50,
+            "speed": 40,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sandshrew.jpg"
+    },
+    {
+        "name": "Sandslash",
+        "id": 2,
+        "fact": "Sandslash's sharp claws allow it to burrow quickly through the ground.",
+        "stats": {
+            "attack": 75,
+            "speed": 65,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sandslash.jpg"
+    },
+    {
+        "name": "Diglett",
+        "id": 3,
+        "fact": "Diglett lives underground and can tunnel through the earth at high speeds.",
+        "stats": {
+            "attack": 55,
+            "speed": 95,
+            "hp": 10
+        },
+        "image_url": "https://img.pokemondb.net/artwork/diglett.jpg"
+    },
+    {
+        "name": "Dugtrio",
+        "id": 4,
+        "fact": "Dugtrio is a trio of Diglett that work together to move through the ground more efficiently.",
+        "stats": {
+            "attack": 80,
+            "speed": 120,
+            "hp": 10
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dugtrio.jpg"
+    },
+    {
+        "name": "Gible",
+        "id": 5,
+        "fact": "Gible is known for its strong jaws and its ability to dig through the ground.",
+        "stats": {
+            "attack": 70,
+            "speed": 42,
+            "hp": 58
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gible.jpg"
+    },
+    {
+        "name": "Gabite",
+        "id": 6,
+        "fact": "Gabite can fly short distances and is known for its ground-shaking attacks.",
+        "stats": {
+            "attack": 80,
+            "speed": 65,
+            "hp": 68
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gabite.jpg"
+    },
+    {
+        "name": "Garchomp",
+        "id": 7,
+        "fact": "Garchomp is a powerful Pokémon that can create shockwaves by moving through the ground at high speeds.",
+        "stats": {
+            "attack": 130,
+            "speed": 102,
+            "hp": 108
+        },
+        "image_url": "https://img.pokemondb.net/artwork/garchomp.jpg"
+    },
+    {
+        "name": "Trapinch",
+        "id": 8,
+        "fact": "Trapinch creates a pitfall trap to catch prey and can turn the sand into a powerful sandstorm.",
+        "stats": {
+            "attack": 100,
+            "speed": 10,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/trapinch.jpg"
+    },
+    {
+        "name": "Vibrava",
+        "id": 9,
+        "fact": "Vibrava uses its wings to create a powerful sound wave that can disorient its foes.",
+        "stats": {
+            "attack": 70,
+            "speed": 70,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/vibrava.jpg"
+    },
+    {
+        "name": "Flygon",
+        "id": 10,
+        "fact": "Flygon can create sandstorms and is known as the Desert Spirit due to its connection with the sand.",
+        "stats": {
+            "attack": 100,
+            "speed": 100,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/flygon.jpg"
+    },
+    {
+        "name": "Baltoy",
+        "id": 11,
+        "fact": "Baltoy can levitate and spin its body to create a powerful psychic force.",
+        "stats": {
+            "attack": 40,
+            "speed": 55,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/baltoy.jpg"
+    },
+    {
+        "name": "Claydol",
+        "id": 12,
+        "fact": "Claydol can create powerful psychic waves and is known for its ability to protect itself from attacks.",
+        "stats": {
+            "attack": 70,
+            "speed": 75,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/claydol.jpg"
+    },
+    {
+        "name": "Rhyhorn",
+        "id": 13,
+        "fact": "Rhyhorn's body is covered in thick armor, and it charges at opponents with its powerful horn.",
+        "stats": {
+            "attack": 85,
+            "speed": 25,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/rhyhorn.jpg"
+    },
+    {
+        "name": "Rhydon",
+        "id": 14,
+        "fact": "Rhydon's powerful horn and thick armor make it a formidable opponent in battle.",
+        "stats": {
+            "attack": 130,
+            "speed": 40,
+            "hp": 105
+        },
+        "image_url": "https://img.pokemondb.net/artwork/rhydon.jpg"
+    },
+    {
+        "name": "Rhyperior",
+        "id": 15,
+        "fact": "Rhyperior's massive body and powerful attacks make it a dominant force in ground battles.",
+        "stats": {
+            "attack": 140,
+            "speed": 40,
+            "hp": 115
+        },
+        "image_url": "https://img.pokemondb.net/artwork/rhyperior.jpg"
+    },
+    {
+        "name": "Golem",
+        "id": 16,
+        "fact": "Golem's body is a rock-hard shell that it uses to roll and crush anything in its path.",
+        "stats": {
+            "attack": 100,
+            "speed": 20,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/golem.jpg"
+    }
+]

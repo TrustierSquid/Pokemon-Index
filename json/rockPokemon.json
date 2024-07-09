@@ -1,0 +1,134 @@
+[
+    {
+        "name": "Geodude",
+        "id": 1,
+        "fact": "Geodude's body is covered in a rugged rock-like skin that is highly resistant to damage.",
+        "stats": {
+            "attack": 80,
+            "speed": 20,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/geodude.jpg"
+    },
+    {
+        "name": "Graveler",
+        "id": 2,
+        "fact": "Graveler's body is made up of rolling stones, making it both heavy and powerful.",
+        "stats": {
+            "attack": 100,
+            "speed": 25,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/graveler.jpg"
+    },
+    {
+        "name": "Golem",
+        "id": 3,
+        "fact": "Golem is known for its incredible physical strength and the ability to cause earthquakes.",
+        "stats": {
+            "attack": 120,
+            "speed": 20,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/golem.jpg"
+    },
+    {
+        "name": "Onix",
+        "id": 4,
+        "fact": "Onix's body is made of large boulders, which it uses to tunnel through the ground.",
+        "stats": {
+            "attack": 45,
+            "speed": 70,
+            "hp": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/onix.jpg"
+    },
+    {
+        "name": "Rhyhorn",
+        "id": 5,
+        "fact": "Rhyhorn's sturdy body is highly resistant to damage, and it charges at its opponents with great force.",
+        "stats": {
+            "attack": 85,
+            "speed": 25,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/rhyhorn.jpg"
+    },
+    {
+        "name": "Rhydon",
+        "id": 6,
+        "fact": "Rhydon is known for its incredible strength and its ability to smash through obstacles with its horn.",
+        "stats": {
+            "attack": 130,
+            "speed": 40,
+            "hp": 105
+        },
+        "image_url": "https://img.pokemondb.net/artwork/rhydon.jpg"
+    },
+    {
+        "name": "Kabuto",
+        "id": 7,
+        "fact": "Kabuto has a hard shell that protects it from most attacks and can retreat into it for safety.",
+        "stats": {
+            "attack": 40,
+            "speed": 55,
+            "hp": 30
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kabuto.jpg"
+    },
+    {
+        "name": "Kabutops",
+        "id": 8,
+        "fact": "Kabutops's claws are incredibly sharp and strong, allowing it to slice through its prey with ease.",
+        "stats": {
+            "attack": 115,
+            "speed": 80,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kabutops.jpg"
+    },
+    {
+        "name": "Omanyte",
+        "id": 9,
+        "fact": "Omanyte is a prehistoric Pokémon with a coiled shell that it uses to protect itself from danger.",
+        "stats": {
+            "attack": 40,
+            "speed": 35,
+            "hp": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/omanyte.jpg"
+    },
+    {
+        "name": "Omastar",
+        "id": 10,
+        "fact": "Omastar uses its tentacles to capture prey and can shoot jets of water to attack from a distance.",
+        "stats": {
+            "attack": 60,
+            "speed": 55,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/omastar.jpg"
+    },
+    {
+        "name": "Aerodactyl",
+        "id": 11,
+        "fact": "Aerodactyl's large wings and powerful jaws make it a fierce predator and one of the fastest Rock-type Pokémon.",
+        "stats": {
+            "attack": 105,
+            "speed": 130,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/aerodactyl.jpg"
+    },
+    {
+        "name": "Tyranitar",
+        "id": 12,
+        "fact": "Tyranitar's body is incredibly strong, and it can cause massive earthquakes with its roar.",
+        "stats": {
+            "attack": 134,
+            "speed": 61,
+            "hp": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/tyranitar.jpg"
+    }
+]

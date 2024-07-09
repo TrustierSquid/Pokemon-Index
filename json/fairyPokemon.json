@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Sylveon",
+        "id": 1,
+        "fact": "Sylveon uses its ribbon-like feelers to communicate with others and can create a soothing aura with its Fairy-type moves.",
+        "stats": {
+            "attack": 65,
+            "speed": 60,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sylveon.jpg"
+    },
+    {
+        "name": "Gardevoir",
+        "id": 2,
+        "fact": "Gardevoir is known for its strong psychic abilities and its ability to create a protective shield for its trainer.",
+        "stats": {
+            "attack": 65,
+            "speed": 80,
+            "hp": 68
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gardevoir.jpg"
+    },
+    {
+        "name": "Granbull",
+        "id": 3,
+        "fact": "Granbull's powerful jaws are its primary means of attack, and it has a strong, intimidating presence.",
+        "stats": {
+            "attack": 120,
+            "speed": 45,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/granbull.jpg"
+    },
+    {
+        "name": "Togekiss",
+        "id": 4,
+        "fact": "Togekiss spreads happiness and peace wherever it goes, often using its wings to create a calming aura.",
+        "stats": {
+            "attack": 50,
+            "speed": 80,
+            "hp": 85
+        },
+        "image_url": "https://img.pokemondb.net/artwork/togekiss.jpg"
+    },
+    {
+        "name": "Clefable",
+        "id": 5,
+        "fact": "Clefable's body can reflect light, which it uses to confuse its opponents and protect itself from attacks.",
+        "stats": {
+            "attack": 70,
+            "speed": 60,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/clefable.jpg"
+    },
+    {
+        "name": "Florges",
+        "id": 6,
+        "fact": "Florges uses its floral bouquet to create a tranquil environment and has the ability to heal the wounds of others.",
+        "stats": {
+            "attack": 65,
+            "speed": 75,
+            "hp": 78
+        },
+        "image_url": "https://img.pokemondb.net/artwork/florges.jpg"
+    },
+    {
+        "name": "Mimikyu",
+        "id": 7,
+        "fact": "Mimikyu disguises itself in a Pikachu costume to avoid attention and is known for its mysterious and elusive nature.",
+        "stats": {
+            "attack": 90,
+            "speed": 96,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/mimikyu.jpg"
+    },
+    {
+        "name": "Tapu Koko",
+        "id": 8,
+        "fact": "Tapu Koko is known for its electric and fairy powers and is revered as the guardian deity of the Alola region.",
+        "stats": {
+            "attack": 96,
+            "speed": 130,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/tapu-koko.jpg"
+    }
+]

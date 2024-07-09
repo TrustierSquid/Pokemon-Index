@@ -1,0 +1,90 @@
+[
+    {
+        "name": "Dratini",
+        "id": 1,
+        "fact": "Dratini is known for its gentle nature and is often found in bodies of water where it can swim gracefully.",
+        "stats": {
+            "attack": 64,
+            "speed": 50,
+            "hp": 41
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dratini.jpg"
+    },
+    {
+        "name": "Dragonair",
+        "id": 2,
+        "fact": "Dragonair is known for its beauty and mystical aura, and it can control the weather with its powerful presence.",
+        "stats": {
+            "attack": 84,
+            "speed": 70,
+            "hp": 61
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dragonair.jpg"
+    },
+    {
+        "name": "Dragonite",
+        "id": 3,
+        "fact": "Dragonite is known for its incredible strength and its ability to fly at extremely high speeds.",
+        "stats": {
+            "attack": 134,
+            "speed": 80,
+            "hp": 91
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dragonite.jpg"
+    },
+    {
+        "name": "Salamence",
+        "id": 4,
+        "fact": "Salamence's massive wings and powerful breath make it a formidable opponent in battle.",
+        "stats": {
+            "attack": 135,
+            "speed": 100,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/salamence.jpg"
+    },
+    {
+        "name": "Garchomp",
+        "id": 5,
+        "fact": "Garchomp's powerful jaws and sharp claws make it one of the most dangerous Dragon-type Pokémon.",
+        "stats": {
+            "attack": 130,
+            "speed": 102,
+            "hp": 108
+        },
+        "image_url": "https://img.pokemondb.net/artwork/garchomp.jpg"
+    },
+    {
+        "name": "Latias",
+        "id": 6,
+        "fact": "Latias is known for its ability to sense the emotions of others and its graceful flight.",
+        "stats": {
+            "attack": 80,
+            "speed": 110,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/latias.jpg"
+    },
+    {
+        "name": "Latios",
+        "id": 7,
+        "fact": "Latios can create and control powerful psychic waves, which it uses in battle and to protect its loved ones.",
+        "stats": {
+            "attack": 90,
+            "speed": 110,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/latios.jpg"
+    },
+    {
+        "name": "Dragapult",
+        "id": 8,
+        "fact": "Dragapult is known for its ability to launch Dreepy at high speeds as a method of attack.",
+        "stats": {
+            "attack": 120,
+            "speed": 142,
+            "hp": 88
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dragapult.jpg"
+    }
+]

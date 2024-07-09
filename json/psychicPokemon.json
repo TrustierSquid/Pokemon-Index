@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Abra",
+        "id": 1,
+        "fact": "Abra spends most of its time sleeping and uses its psychic powers to detect danger.",
+        "stats": {
+            "attack": 20,
+            "speed": 90,
+            "hp": 25
+        },
+        "image_url": "https://img.pokemondb.net/artwork/abra.jpg"
+    },
+    {
+        "name": "Kadabra",
+        "id": 2,
+        "fact": "Kadabra's psychic powers are so strong that it can bend spoons with its mind.",
+        "stats": {
+            "attack": 35,
+            "speed": 105,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kadabra.jpg"
+    },
+    {
+        "name": "Alakazam",
+        "id": 3,
+        "fact": "Alakazam has an IQ of 5000 and can use its psychic abilities to predict its opponent's moves.",
+        "stats": {
+            "attack": 50,
+            "speed": 120,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/alakazam.jpg"
+    },
+    {
+        "name": "Machops",
+        "id": 4,
+        "fact": "Machops can lift heavy objects and use its psychic abilities to enhance its strength.",
+        "stats": {
+            "attack": 80,
+            "speed": 55,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/machops.jpg"
+    },
+    {
+        "name": "Machamps",
+        "id": 5,
+        "fact": "Machamps is known for its immense physical strength and can wield its psychic powers to deliver powerful blows.",
+        "stats": {
+            "attack": 130,
+            "speed": 55,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/machamps.jpg"
+    },
+    {
+        "name": "Metatite",
+        "id": 6,
+        "fact": "Metatite has the ability to use psychic powers in combination with its fighting skills, enhancing its battle prowess.",
+        "stats": {
+            "attack": 40,
+            "speed": 60,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/metatite.jpg"
+    },
+    {
+        "name": "Metacham",
+        "id": 7,
+        "fact": "Metacham can use its psychic abilities to sense its opponent's movements and plan its attacks accordingly.",
+        "stats": {
+            "attack": 60,
+            "speed": 80,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/metacham.jpg"
+    },
+    {
+        "name": "Jynx",
+        "id": 8,
+        "fact": "Jynx uses its psychic powers to create intense cold and freeze its opponents.",
+        "stats": {
+            "attack": 50,
+            "speed": 65,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/jynx.jpg"
+    },
+    {
+        "name": "Espeon",
+        "id": 9,
+        "fact": "Espeon evolves from Eevee and is known for its strong psychic abilities and keen senses.",
+        "stats": {
+            "attack": 65,
+            "speed": 110,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/espeon.jpg"
+    },
+    {
+        "name": "Uxie",
+        "id": 10,
+        "fact": "Uxie is known as the 'Being of Knowledge' and is said to have given humans the gift of knowledge.",
+        "stats": {
+            "attack": 75,
+            "speed": 95,
+            "hp": 75
+        },
+        "image_url": "https://img.pokemondb.net/artwork/uxie.jpg"
+    },
+    {
+        "name": "Mesprit",
+        "id": 11,
+        "fact": "Mesprit is known as the 'Being of Emotion' and is said to have given humans emotions.",
+        "stats": {
+            "attack": 105,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/mesprit.jpg"
+    },
+    {
+        "name": "Azelf",
+        "id": 12,
+        "fact": "Azelf is known as the 'Being of Willpower' and is said to have given humans the drive to pursue their goals.",
+        "stats": {
+            "attack": 125,
+            "speed": 115,
+            "hp": 75
+        },
+        "image_url": "https://img.pokemondb.net/artwork/azelf.jpg"
+    },
+    {
+        "name": "Galarian Slowbro",
+        "id": 13,
+        "fact": "Galarian Slowbro's psychic abilities are amplified by the toxic shell it carries.",
+        "stats": {
+            "attack": 65,
+            "speed": 30,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/galarian-slowbro.jpg"
+    },
+    {
+        "name": "Galarian Slowking",
+        "id": 14,
+        "fact": "Galarian Slowking's psychic powers are enhanced by the presence of the toxic shell on its head.",
+        "stats": {
+            "attack": 75,
+            "speed": 30,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/galarian-slowking.jpg"
+    }
+]

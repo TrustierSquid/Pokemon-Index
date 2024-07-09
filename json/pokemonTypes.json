@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "name": "Snorlax",
+        "type": "Normal",
+        "image_url": "https://img.pokemondb.net/artwork/large/snorlax.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Charizard",
+        "type": "Fire",
+        "image_url": "https://img.pokemondb.net/artwork/large/charizard.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Blastoise",
+        "type": "Water",
+        "image_url": "https://img.pokemondb.net/artwork/large/blastoise.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Venusaur",
+        "type": "Grass",
+        "image_url": "https://img.pokemondb.net/artwork/large/venusaur.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pikachu",
+        "type": "Electric",
+        "image_url": "https://img.pokemondb.net/artwork/large/pikachu.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Articuno",
+        "type": "Ice",
+        "image_url": "https://img.pokemondb.net/artwork/large/articuno.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Machamp",
+        "type": "Fighting",
+        "image_url": "https://img.pokemondb.net/artwork/large/machamp.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Gengar",
+        "type": "Poison",
+        "image_url": "https://img.pokemondb.net/artwork/large/gengar.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Garchomp",
+        "type": "Ground",
+        "image_url": "https://img.pokemondb.net/artwork/large/garchomp.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Pidgeot",
+        "type": "Flying",
+        "image_url": "https://img.pokemondb.net/artwork/large/pidgeot.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Alakazam",
+        "type": "Psychic",
+        "image_url": "https://img.pokemondb.net/artwork/large/alakazam.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Scyther",
+        "type": "Bug",
+        "image_url": "https://img.pokemondb.net/artwork/large/scyther.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Onix",
+        "type": "Rock",
+        "image_url": "https://img.pokemondb.net/artwork/large/onix.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Dragonite",
+        "type": "Dragon",
+        "image_url": "https://img.pokemondb.net/artwork/large/dragonite.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Umbreon",
+        "type": "Dark",
+        "image_url": "https://img.pokemondb.net/artwork/large/umbreon.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Steelix",
+        "type": "Steel",
+        "image_url": "https://img.pokemondb.net/artwork/large/steelix.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Sylveon",
+        "type": "Fairy",
+        "image_url": "https://img.pokemondb.net/artwork/large/sylveon.jpg"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "name": "Bulbasaur",
+        "id": 1,
+        "fact": "Bulbasaur's plant grows steadily larger as it gains experience, and it can use its poison to its advantage.",
+        "stats": {
+            "attack": 49,
+            "speed": 45,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/bulbasaur.jpg"
+    },
+    {
+        "name": "Ivysaur",
+        "id": 2,
+        "fact": "Ivysaur is a transition Pokémon that evolves from Bulbasaur and its plant grows even more, enhancing its poison abilities.",
+        "stats": {
+            "attack": 62,
+            "speed": 60,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/ivysaur.jpg"
+    },
+    {
+        "name": "Venusaur",
+        "id": 3,
+        "fact": "Venusaur's flower emits a foul odor that can cause a sickening effect on its foes.",
+        "stats": {
+            "attack": 82,
+            "speed": 80,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/venusaur.jpg"
+    },
+    {
+        "name": "Nidoran♀",
+        "id": 4,
+        "fact": "Nidoran♀ has toxic barbs on its body that can inject poison into its enemies.",
+        "stats": {
+            "attack": 47,
+            "speed": 41,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/nidoran-f.jpg"
+    },
+    {
+        "name": "Nidorina",
+        "id": 5,
+        "fact": "Nidorina's poisonous barbs are sharper and more dangerous than those of Nidoran♀.",
+        "stats": {
+            "attack": 62,
+            "speed": 56,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/nidorina.jpg"
+    },
+    {
+        "name": "Nidoqueen",
+        "id": 6,
+        "fact": "Nidoqueen can use its poisonous claws and horn to fend off opponents.",
+        "stats": {
+            "attack": 92,
+            "speed": 76,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/nidoqueen.jpg"
+    },
+    {
+        "name": "Nidoran♂",
+        "id": 7,
+        "fact": "Nidoran♂ has poison spikes on its back that can be used to defend itself when threatened.",
+        "stats": {
+            "attack": 57,
+            "speed": 40,
+            "hp": 46
+        },
+        "image_url": "https://img.pokemondb.net/artwork/nidoran-m.jpg"
+    },
+    {
+        "name": "Nidorino",
+        "id": 8,
+        "fact": "Nidorino's poison is more potent and its horns are sharper than those of Nidoran♂.",
+        "stats": {
+            "attack": 72,
+            "speed": 65,
+            "hp": 61
+        },
+        "image_url": "https://img.pokemondb.net/artwork/nidorino.jpg"
+    },
+    {
+        "name": "Nidoking",
+        "id": 9,
+        "fact": "Nidoking's powerful poison can incapacitate its enemies with a single touch.",
+        "stats": {
+            "attack": 102,
+            "speed": 85,
+            "hp": 81
+        },
+        "image_url": "https://img.pokemondb.net/artwork/nidoking.jpg"
+    },
+    {
+        "name": "Grimer",
+        "id": 10,
+        "fact": "Grimer's body is composed of toxic sludge, and it can melt anything it touches.",
+        "stats": {
+            "attack": 60,
+            "speed": 40,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/grimer.jpg"
+    },
+    {
+        "name": "Muk",
+        "id": 11,
+        "fact": "Muk's body is a highly toxic sludge that can contaminate entire areas.",
+        "stats": {
+            "attack": 80,
+            "speed": 50,
+            "hp": 105
+        },
+        "image_url": "https://img.pokemondb.net/artwork/muk.jpg"
+    },
+    {
+        "name": "Crobat",
+        "id": 12,
+        "fact": "Crobat's poisonous fangs are used in its quick, powerful attacks.",
+        "stats": {
+            "attack": 90,
+            "speed": 130,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/crobat.jpg"
+    },
+    {
+        "name": "Gengar",
+        "id": 13,
+        "fact": "Gengar can manipulate shadows and is known for its mischievous and spooky nature.",
+        "stats": {
+            "attack": 65,
+            "speed": 110,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gengar.jpg"
+    },
+    {
+        "name": "Weezing",
+        "id": 14,
+        "fact": "Weezing's body is a cluster of toxic gases that it releases to poison its enemies.",
+        "stats": {
+            "attack": 65,
+            "speed": 60,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/weezing.jpg"
+    }
+]

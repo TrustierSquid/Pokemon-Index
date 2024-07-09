@@ -1,0 +1,376 @@
+[
+    {
+        "name": "Squirtle",
+        "id": 1,
+        "fact": "Squirtle's shell is not just for protection—it also helps it swim at high speeds.",
+        "stats": {
+            "attack": 48,
+            "speed": 43,
+            "hp": 44
+        },
+        "image_url": "https://img.pokemondb.net/artwork/squirtle.jpg"
+    },
+    {
+        "name": "Wartortle",
+        "id": 2,
+        "fact": "Wartortle's fur has a silken texture that provides protection from the water and keeps it buoyant.",
+        "stats": {
+            "attack": 63,
+            "speed": 58,
+            "hp": 59
+        },
+        "image_url": "https://img.pokemondb.net/artwork/wartortle.jpg"
+    },
+    {
+        "name": "Blastoise",
+        "id": 3,
+        "fact": "Blastoise has cannons on its back that can shoot water with incredible force.",
+        "stats": {
+            "attack": 83,
+            "speed": 78,
+            "hp": 79
+        },
+        "image_url": "https://img.pokemondb.net/artwork/blastoise.jpg"
+    },
+    {
+        "name": "Psyduck",
+        "id": 4,
+        "fact": "Psyduck suffers from persistent headaches that can trigger its psychic abilities.",
+        "stats": {
+            "attack": 52,
+            "speed": 55,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/psyduck.jpg"
+    },
+    {
+        "name": "Golduck",
+        "id": 5,
+        "fact": "Golduck has psychic powers that it uses to predict its opponent's moves during battle.",
+        "stats": {
+            "attack": 75,
+            "speed": 85,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/golduck.jpg"
+    },
+    {
+        "name": "Tentacool",
+        "id": 6,
+        "fact": "Tentacool's body is mostly water, making it very buoyant in the ocean.",
+        "stats": {
+            "attack": 40,
+            "speed": 70,
+            "hp": 40
+        },
+        "image_url": "https://img.pokemondb.net/artwork/tentacool.jpg"
+    },
+    {
+        "name": "Tentacruel",
+        "id": 7,
+        "fact": "Tentacruel's tentacles contain toxic cells that can cause severe pain if touched.",
+        "stats": {
+            "attack": 70,
+            "speed": 100,
+            "hp": 80
+        },
+        "image_url": "https://img.pokemondb.net/artwork/tentacruel.jpg"
+    },
+    {
+        "name": "Seel",
+        "id": 8,
+        "fact": "Seel's body is covered in a thick layer of blubber that keeps it warm in freezing water.",
+        "stats": {
+            "attack": 45,
+            "speed": 55,
+            "hp": 65
+        },
+        "image_url": "https://img.pokemondb.net/artwork/seel.jpg"
+    },
+    {
+        "name": "Dewgong",
+        "id": 9,
+        "fact": "Dewgong's body temperature is stable even in freezing waters, thanks to its thick layer of blubber.",
+        "stats": {
+            "attack": 70,
+            "speed": 60,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/dewgong.jpg"
+    },
+    {
+        "name": "Shellder",
+        "id": 10,
+        "fact": "Shellder's shell is incredibly hard and can withstand most physical attacks.",
+        "stats": {
+            "attack": 65,
+            "speed": 45,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/shellder.jpg"
+    },
+    {
+        "name": "Cloyster",
+        "id": 11,
+        "fact": "Cloyster can open and close its shell with incredible speed to launch an attack.",
+        "stats": {
+            "attack": 95,
+            "speed": 70,
+            "hp": 50
+        },
+        "image_url": "https://img.pokemondb.net/artwork/cloyster.jpg"
+    },
+    {
+        "name": "Magikarp",
+        "id": 12,
+        "fact": "Magikarp is known for its pathetic appearance and its inability to do much but splash around.",
+        "stats": {
+            "attack": 10,
+            "speed": 80,
+            "hp": 20
+        },
+        "image_url": "https://img.pokemondb.net/artwork/magikarp.jpg"
+    },
+    {
+        "name": "Gyarados",
+        "id": 13,
+        "fact": "Gyarados is a fearsome Pokémon that can unleash a terrible storm when enraged.",
+        "stats": {
+            "attack": 125,
+            "speed": 81,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gyarados.jpg"
+    },
+    {
+        "name": "Lapras",
+        "id": 14,
+        "fact": "Lapras is known for its gentle nature and its ability to communicate with humans through its song.",
+        "stats": {
+            "attack": 85,
+            "speed": 60,
+            "hp": 130
+        },
+        "image_url": "https://img.pokemondb.net/artwork/lapras.jpg"
+    },
+    {
+        "name": "Vaporeon",
+        "id": 15,
+        "fact": "Vaporeon can melt into water and become nearly invisible to enemies.",
+        "stats": {
+            "attack": 65,
+            "speed": 65,
+            "hp": 130
+        },
+        "image_url": "https://img.pokemondb.net/artwork/vaporeon.jpg"
+    },
+    {
+        "name": "Omanyte",
+        "id": 16,
+        "fact": "Omanyte's spiral shell was originally designed to protect it from the ocean's currents.",
+        "stats": {
+            "attack": 40,
+            "speed": 35,
+            "hp": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/omanyte.jpg"
+    },
+    {
+        "name": "Omastar",
+        "id": 17,
+        "fact": "Omastar has tentacles that it uses to capture prey and defend itself from predators.",
+        "stats": {
+            "attack": 60,
+            "speed": 55,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/omastar.jpg"
+    },
+    {
+        "name": "Kabuto",
+        "id": 18,
+        "fact": "Kabuto's shell is extremely durable, providing protection from attacks.",
+        "stats": {
+            "attack": 80,
+            "speed": 55,
+            "hp": 30
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kabuto.jpg"
+    },
+    {
+        "name": "Kabutops",
+        "id": 19,
+        "fact": "Kabutops' scythe-like claws are designed to slice through water and prey with ease.",
+        "stats": {
+            "attack": 115,
+            "speed": 80,
+            "hp": 60
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kabutops.jpg"
+    },
+    {
+        "name": "Carvanha",
+        "id": 20,
+        "fact": "Carvanha has razor-sharp fangs that can slice through steel and its own body for food.",
+        "stats": {
+            "attack": 90,
+            "speed": 65,
+            "hp": 45
+        },
+        "image_url": "https://img.pokemondb.net/artwork/carvanha.jpg"
+    },
+    {
+        "name": "Sharpedo",
+        "id": 21,
+        "fact": "Sharpedo's speed allows it to close in on its prey quickly and with deadly efficiency.",
+        "stats": {
+            "attack": 120,
+            "speed": 95,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sharpedo.jpg"
+    },
+    {
+        "name": "Wailmer",
+        "id": 22,
+        "fact": "Wailmer can store air in its stomach to keep itself afloat on the water's surface.",
+        "stats": {
+            "attack": 70,
+            "speed": 60,
+            "hp": 130
+        },
+        "image_url": "https://img.pokemondb.net/artwork/wailmer.jpg"
+    },
+    {
+        "name": "Wailord",
+        "id": 23,
+        "fact": "Wailord is the largest known Pokémon and can travel long distances across the ocean.",
+        "stats": {
+            "attack": 90,
+            "speed": 60,
+            "hp": 170
+        },
+        "image_url": "https://img.pokemondb.net/artwork/wailord.jpg"
+    },
+    {
+        "name": "Feebas",
+        "id": 24,
+        "fact": "Feebas is known for its extremely low beauty and is often considered an ugly Pokémon.",
+        "stats": {
+            "attack": 15,
+            "speed": 80,
+            "hp": 20
+        },
+        "image_url": "https://img.pokemondb.net/artwork/feebas.jpg"
+    },
+    {
+        "name": "Milotic",
+        "id": 25,
+        "fact": "Milotic is said to be the most beautiful of all Pokémon and is known for its serene and graceful nature.",
+        "stats": {
+            "attack": 60,
+            "speed": 81,
+            "hp": 95
+        },
+        "image_url": "https://img.pokemondb.net/artwork/milotic.jpg"
+    },
+    {
+        "name": "Castform",
+        "id": 26,
+        "fact": "Castform can change its form to adapt to various weather conditions.",
+        "stats": {
+            "attack": 70,
+            "speed": 70,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/castform.jpg"
+    },
+    {
+        "name": "Clamperl",
+        "id": 27,
+        "fact": "Clamperl's body is covered in a tough shell that is extremely hard to crack.",
+        "stats": {
+            "attack": 64,
+            "speed": 32,
+            "hp": 35
+        },
+        "image_url": "https://img.pokemondb.net/artwork/clamperl.jpg"
+    },
+    {
+        "name": "Huntail",
+        "id": 28,
+        "fact": "Huntail lives deep in the sea and is known for its hunting skills and stealthy attacks.",
+        "stats": {
+            "attack": 104,
+            "speed": 52,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/huntail.jpg"
+    },
+    {
+        "name": "Gorebyss",
+        "id": 29,
+        "fact": "Gorebyss is a graceful Pokémon that swims effortlessly and uses its long body to ensnare prey.",
+        "stats": {
+            "attack": 84,
+            "speed": 52,
+            "hp": 55
+        },
+        "image_url": "https://img.pokemondb.net/artwork/gorebyss.jpg"
+    },
+    {
+        "name": "Luvdisc",
+        "id": 30,
+        "fact": "Luvdisc's heart-shaped body is a symbol of love and affection among Pokémon Trainers.",
+        "stats": {
+            "attack": 30,
+            "speed": 97,
+            "hp": 43
+        },
+        "image_url": "https://img.pokemondb.net/artwork/luvdisc.jpg"
+    },
+    {
+        "name": "Spheal",
+        "id": 31,
+        "fact": "Spheal is known for its playful nature and enjoys rolling around on the ice.",
+        "stats": {
+            "attack": 40,
+            "speed": 25,
+            "hp": 70
+        },
+        "image_url": "https://img.pokemondb.net/artwork/spheal.jpg"
+    },
+    {
+        "name": "Sealeo",
+        "id": 32,
+        "fact": "Sealeo balances objects on its nose skillfully and enjoys entertaining others with its tricks.",
+        "stats": {
+            "attack": 60,
+            "speed": 45,
+            "hp": 90
+        },
+        "image_url": "https://img.pokemondb.net/artwork/sealeo.jpg"
+    },
+    {
+        "name": "Walrein",
+        "id": 33,
+        "fact": "Walrein's thick blubber protects it from the cold and allows it to swim through icy waters.",
+        "stats": {
+            "attack": 80,
+            "speed": 65,
+            "hp": 110
+        },
+        "image_url": "https://img.pokemondb.net/artwork/walrein.jpg"
+    },
+    {
+        "name": "Kyogre",
+        "id": 34,
+        "fact": "Kyogre is said to have expanded the sea by bringing heavy rain and causing massive floods.",
+        "stats": {
+            "attack": 100,
+            "speed": 90,
+            "hp": 100
+        },
+        "image_url": "https://img.pokemondb.net/artwork/kyogre.jpg"
+    }
+]

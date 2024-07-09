@@ -1,0 +1,311 @@
+
+[
+    {
+        "id": 1,
+        "name": "Rattata",
+        "image_url": "https://img.pokemondb.net/artwork/large/rattata.jpg",
+        "stats": {
+            "hp": 30,
+            "attack": 56,
+            "speed": 72
+        },
+        "facts": "Rattata can live almost anywhere and can survive on little food."
+    },
+    {
+        "id": 2,
+        "name": "Raticate",
+        "image_url": "https://img.pokemondb.net/artwork/large/raticate.jpg",
+        "stats": {
+            "hp": 55,
+            "attack": 81,
+            "speed": 97
+        },
+        "facts": "Raticate's fangs grow steadily and it gnaws on hard objects to keep them ground down."
+    },
+    {
+        "id": 3,
+        "name": "Pidgey",
+        "image_url": "https://img.pokemondb.net/artwork/large/pidgey.jpg",
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "speed": 56
+        },
+        "facts": "Pidgey has an outstanding sense of direction."
+    },
+    {
+        "id": 4,
+        "name": "Pidgeotto",
+        "image_url": "https://img.pokemondb.net/artwork/large/pidgeotto.jpg",
+        "stats": {
+            "hp": 63,
+            "attack": 60,
+            "speed": 71
+        },
+        "facts": "Pidgeotto flies over its wide territory in search of prey."
+    },
+    {
+        "id": 5,
+        "name": "Pidgeot",
+        "image_url": "https://img.pokemondb.net/artwork/large/pidgeot.jpg",
+        "stats": {
+            "hp": 83,
+            "attack": 80,
+            "speed": 101
+        },
+        "facts": "Pidgeot's large wings allow it to fly at speeds close to Mach 2."
+    },
+    {
+        "id": 6,
+        "name": "Meowth",
+        "image_url": "https://img.pokemondb.net/artwork/large/meowth.jpg",
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "speed": 90
+        },
+        "facts": "Meowth loves shiny objects and will wander the streets at night to find dropped loose change."
+    },
+    {
+        "id": 7,
+        "name": "Persian",
+        "image_url": "https://img.pokemondb.net/artwork/large/persian.jpg",
+        "stats": {
+            "hp": 65,
+            "attack": 70,
+            "speed": 115
+        },
+        "facts": "Persian has a very sophisticated air. It does not keep a permanent den and prefers to roam freely."
+    },
+    {
+        "id": 8,
+        "name": "Jigglypuff",
+        "image_url": "https://img.pokemondb.net/artwork/large/jigglypuff.jpg",
+        "stats": {
+            "hp": 115,
+            "attack": 45,
+            "speed": 20
+        },
+        "facts": "Jigglypuff's singing voice is known to put people and Pokémon to sleep."
+    },
+    {
+        "id": 9,
+        "name": "Wigglytuff",
+        "image_url": "https://img.pokemondb.net/artwork/large/wigglytuff.jpg",
+        "stats": {
+            "hp": 140,
+            "attack": 70,
+            "speed": 45
+        },
+        "facts": "Wigglytuff's fur feels so good that if two of them snuggle together, they won't want to be separated."
+    },
+    {
+        "id": 10,
+        "name": "Clefairy",
+        "image_url": "https://img.pokemondb.net/artwork/large/clefairy.jpg",
+        "stats": {
+            "hp": 70,
+            "attack": 45,
+            "speed": 35
+        },
+        "facts": "Clefairy is said to live in quiet, mountainous areas, where it dances under the full moon."
+    },
+    {
+        "id": 11,
+        "name": "Clefable",
+        "image_url": "https://img.pokemondb.net/artwork/large/clefable.jpg",
+        "stats": {
+            "hp": 95,
+            "attack": 70,
+            "speed": 60
+        },
+        "facts": "Clefable is very sensitive to sound and will flee when it hears something it doesn't like."
+    },
+    {
+        "id": 12,
+        "name": "Snorlax",
+        "image_url": "https://img.pokemondb.net/artwork/large/snorlax.jpg",
+        "stats": {
+            "hp": 160,
+            "attack": 110,
+            "speed": 30
+        },
+        "facts": "Snorlax's typical day consists of nothing more than eating and sleeping."
+    },
+    {
+        "id": 13,
+        "name": "Eevee",
+        "image_url": "https://img.pokemondb.net/artwork/large/eevee.jpg",
+        "stats": {
+            "hp": 55,
+            "attack": 55,
+            "speed": 55
+        },
+        "facts": "Eevee has an unstable genetic makeup that suddenly mutates due to the environment in which it lives."
+    },
+    {
+        "id": 14,
+        "name": "Zubat",
+        "image_url": "https://img.pokemondb.net/artwork/large/zubat.jpg",
+        "stats": {
+            "hp": 40,
+            "attack": 45,
+            "speed": 55
+        },
+        "facts": "Zubat avoids sunlight because exposure causes it to become unhealthy."
+    },
+    {
+        "id": 15,
+        "name": "Golbat",
+        "image_url": "https://img.pokemondb.net/artwork/large/golbat.jpg",
+        "stats": {
+            "hp": 75,
+            "attack": 80,
+            "speed": 90
+        },
+        "facts": "Golbat loves to drink the blood of living things. It is particularly active in the pitch black of night."
+    },
+    {
+        "id": 16,
+        "name": "Psyduck",
+        "image_url": "https://img.pokemondb.net/artwork/large/psyduck.jpg",
+        "stats": {
+            "hp": 50,
+            "attack": 52,
+            "speed": 55
+        },
+        "facts": "Psyduck always holds its head due to its constant headache."
+    },
+    {
+        "id": 17,
+        "name": "Golduck",
+        "image_url": "https://img.pokemondb.net/artwork/large/golduck.jpg",
+        "stats": {
+            "hp": 80,
+            "attack": 82,
+            "speed": 85
+        },
+        "facts": "Golduck is often seen swimming elegantly by lakeshores. It is often mistaken for the Japanese monster, Kappa."
+    },
+    {
+        "id": 18,
+        "name": "Doduo",
+        "image_url": "https://img.pokemondb.net/artwork/large/doduo.jpg",
+        "stats": {
+            "hp": 35,
+            "attack": 85,
+            "speed": 75
+        },
+        "facts": "Doduo's two heads never sleep at the same time. It can run faster than it can fly."
+    },
+    {
+        "id": 19,
+        "name": "Dodrio",
+        "image_url": "https://img.pokemondb.net/artwork/large/dodrio.jpg",
+        "stats": {
+            "hp": 60,
+            "attack": 110,
+            "speed": 100
+        },
+        "facts": "Dodrio's three heads represent joy, sorrow, and anger. It races through grassy plains with powerful strides."
+    },
+    {
+        "id": 20,
+        "name": "Farfetch’d",
+        "image_url": "https://img.pokemondb.net/artwork/large/farfetchd.jpg",
+        "stats": {
+            "hp": 52,
+            "attack": 90,
+            "speed": 60
+        },
+        "facts": "Farfetch’d always carries a stalk from a plant. The stalk is used for building its nest."
+    },
+    {
+        "id": 21,
+        "name": "Bidoof",
+        "image_url": "https://img.pokemondb.net/artwork/large/bidoof.jpg",
+        "stats": {
+            "hp": 59,
+            "attack": 45,
+            "speed": 31
+        },
+        "facts": "Bidoof is known to be constantly gnawing on logs and rocks to keep its teeth ground down."
+    },
+    {
+        "id": 22,
+        "name": "Bibarel",
+        "image_url": "https://img.pokemondb.net/artwork/large/bibarel.jpg",
+        "stats": {
+            "hp": 79,
+            "attack": 85,
+            "speed": 60
+        },
+        "facts": "Bibarel is known for building dams. It works as part of a group to make structures out of branches and rocks."
+    },
+    {
+        "id": 23,
+        "name": "Hoothoot",
+        "image_url": "https://img.pokemondb.net/artwork/large/hoothoot.jpg",
+        "stats": {
+            "hp": 60,
+            "attack": 30,
+            "speed": 50
+        },
+        "facts": "Hoothoot has an internal organ that senses and tracks the earth's rotation, allowing it to always know the time."
+    },
+    {
+        "id": 24,
+        "name": "Noctowl",
+        "image_url": "https://img.pokemondb.net/artwork/large/noctowl.jpg",
+        "stats": {
+            "hp": 100,
+            "attack": 50,
+            "speed": 70
+        },
+        "facts": "Noctowl is a powerful nighttime hunter. It catches its prey using its stealthy silent flight."
+    },
+    {
+        "id": 25,
+        "name": "Rattata-Alola",
+        "image_url": "https://img.pokemondb.net/artwork/large/rattata-alola.jpg",
+        "stats": {
+            "hp": 30,
+            "attack": 56,
+            "speed": 72
+        },
+        "facts": "Rattata-Alola is nocturnal and hunts for food in packs led by Raticate-Alola."
+    },
+    {
+        "id": 26,
+        "name": "Raticate-Alola",
+        "image_url": "https://img.pokemondb.net/artwork/large/raticate-alola.jpg",
+        "stats": {
+            "hp": 75,
+            "attack": 71,
+            "speed": 77
+        },
+        "facts": "Raticate-Alola is the boss of a group of Rattata-Alola. It has a taste for luxury foods."
+    },
+    {
+        "id": 27,
+        "name": "Silicobra",
+        "image_url": "https://img.pokemondb.net/artwork/large/silicobra.jpg",
+        "stats": {
+            "hp": 52,
+            "attack": 57,
+            "speed": 46
+        },
+        "facts": "Silicobra's neck pouch can store sand, which it uses to blind its opponents."
+    },
+    {
+        "id": 28,
+        "name": "Sandaconda",
+        "image_url": "https://img.pokemondb.net/artwork/large/sandaconda.jpg",
+        "stats": {
+            "hp": 72,
+            "attack": 107,
+            "speed": 71
+        },
+        "facts": "Sandaconda's sand pouch is incredibly elastic, allowing it to store up to a ton of sand."
+    }
+]
