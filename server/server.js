@@ -21,6 +21,7 @@ app.use('/api', dataRouter)
 
 // Important routes
 app.get('/', (req, res)=> {
+    res.sendFile(path.join(__dirname, 'dist', 'index.html'))
     console.time("getting request")
     console.log("request received at /")
     console.timeEnd("getting request")
